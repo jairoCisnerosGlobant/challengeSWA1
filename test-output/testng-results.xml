@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="156" started-at="2016-04-11T17:08:08Z" finished-at="2016-04-11T17:08:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="156" started-at="2016-04-11T17:08:08Z" finished-at="2016-04-11T17:08:08Z">
+      <class name="org.gradle.testNGChallenge">
+        <test-method status="PASS" signature="create()[pri:0, instance:org.gradle.testNGChallenge@2d32e1b6]" name="create" is-config="true" duration-ms="141" started-at="2016-04-11T17:08:08Z" finished-at="2016-04-11T17:08:08Z">
+        </test-method> <!-- create -->
+        <test-method status="PASS" signature="completeResultTest()[pri:0, instance:org.gradle.testNGChallenge@2d32e1b6]" name="completeResultTest" duration-ms="15" started-at="2016-04-11T17:08:08Z" finished-at="2016-04-11T17:08:08Z">
+        </test-method> <!-- completeResultTest -->
+        <test-method status="PASS" signature="errorBusinessResultTest()[pri:0, instance:org.gradle.testNGChallenge@2d32e1b6]" name="errorBusinessResultTest" duration-ms="0" started-at="2016-04-11T17:08:08Z" finished-at="2016-04-11T17:08:08Z">
+        </test-method> <!-- errorBusinessResultTest -->
+        <test-method status="PASS" signature="otherResultTest()[pri:0, instance:org.gradle.testNGChallenge@2d32e1b6]" name="otherResultTest" duration-ms="0" started-at="2016-04-11T17:08:08Z" finished-at="2016-04-11T17:08:08Z">
+        </test-method> <!-- otherResultTest -->
+      </class> <!-- org.gradle.testNGChallenge -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
